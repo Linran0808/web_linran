@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/web_liran/WebContent/css/base.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_liran/src/com/action/baomingAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_liran/src/com/action/catelogAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_liran/src/com/action/gonggaoAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_liran/src/com/service/loginService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_liran/src/com/util/Util.java" charset="UTF-8" />
+  </component>
+</project>
